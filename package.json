@@ -1,0 +1,14 @@
+{
+  "name": "h3_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "h3.js",
+  "scripts": {
+    "start": "node h3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "h3-js": "^4.1.0"
+  }
+}
